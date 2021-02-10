@@ -11,8 +11,8 @@
       <a class="navbar-brand" href="#">PHP Blog</a>
     </div>
     <div class="collapse navbar-collapse" id="navbar">
-      <ul class="navbar-nav nav">
-        <li>
+      <ul class="navbar-nav nav d-inline p-2 bg-primary text-white">
+        <li class="d-inline p-2 bg-primary text-white">
           <a href="<?php echo ROOT_URL; ?>">Home</a>
           <a href="<?php echo ROOT_URL; ?>addpost.php">Add Post</a>
 
